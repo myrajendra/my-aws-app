@@ -17,3 +17,5 @@ e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","cont
 b:null
 c:null
 10:[["$","title","0",{"children":"NUdimension - Advanced AI/ML Solutions"}],["$","meta","1",{"name":"description","content":"Accelerate your AI journey with our state-of-the-art, deployable ML models and streamlined MLOps platform."}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+
+#test app#
